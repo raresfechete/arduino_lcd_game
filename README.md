@@ -4,7 +4,15 @@ An endless runner style game where the player avoids the enemy troops and tries 
 
 ## Requirements
 
-*Arduino Mega 2560, LCD Keypad Shield
-*Arduino IDE
+* Arduino Mega 2560, LCD Keypad Shield
+* Arduino IDE
 
 ## Install
+
+* Download the source code
+* Open it in Arduino IDE
+* Upload it onto the board
+
+## Instructions
+
+
